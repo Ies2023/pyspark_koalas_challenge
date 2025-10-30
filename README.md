@@ -1,4 +1,4 @@
-# pyspark_koalas_challenge
+# Challenge_1_Basicos! (last uploaded document)
 Challenge 1 Básico – PySpark &amp; Koalas
 
 Este proyecto forma parte del curso Procesamiento de grandes bases de datos.
